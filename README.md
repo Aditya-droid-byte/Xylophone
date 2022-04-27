@@ -1,4 +1,4 @@
-(![image](https://user-images.githubusercontent.com/69623904/165604906-071c3604-c680-4523-bdcc-9fd36cd4c8ea.png)
+![image](https://user-images.githubusercontent.com/69623904/165604906-071c3604-c680-4523-bdcc-9fd36cd4c8ea.png)
 
 
 # Xylophone 🎹
