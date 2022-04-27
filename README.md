@@ -12,7 +12,7 @@ In this I will be diving into more Dart programming concepts and learning how to
 
 I am going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let me unleash my musical talent where ever I am. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+![Finished App]("C:\Users\sriva\Downloads\quizzler-demo.gif")
 
 ## What I will learn
 
