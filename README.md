@@ -8,13 +8,13 @@
 In this I will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, I should be comfortable using Flutter packages and building repeated widgets.
 
 
-## What I will create
+## What is cooking
 
 I am going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let me unleash my musical talent where ever I am. 
 
 ![Finished App](https://user-images.githubusercontent.com/69623904/165614155-dffb63e2-d5f5-47af-bd73-303d45881e11.png)
 
-## What I will learn
+## What is going inside brain
 
 - How to incorporate open source libraries of code into your project using Flutter Packages.
 - How to play sound on both iOS and Android.
